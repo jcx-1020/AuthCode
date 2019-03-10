@@ -1,4 +1,4 @@
-package org.westos.utils;
+package com.jcx.utils;
 
 import javax.imageio.ImageIO;
 import javax.script.ScriptEngine;

@@ -24,7 +24,7 @@
 	</appender>
 
 	<!-- logger 规定了哪些包的日志需要输出 name="要输出日志的包名"-->
-	<logger name="org.westos.mapper" level="debug" additivity="false">
+	<logger name="com.jcx.controller" level="debug" additivity="false">
 		<appender-ref ref="STDOUT_SIMPLE" />
 	</logger>
 
